@@ -1,4 +1,4 @@
-Aws scp lab restricting ec2 instance types in sandbox
+AWS SCP lab restricting EC2 instance types in sandbox
 
 This lab demonstrates enforcing cost and governance guardrails with an AWS Service Control Policy (SCP) that denies launching EC2 instances unless the instance type is in an approved micro list. It’s built for a sandbox account inside an AWS Organization and presented CLI-first with curated console visuals.
 Objective and scope
